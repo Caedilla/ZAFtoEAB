@@ -6,7 +6,7 @@ local function moveZAF()
 	end
 end
 
-local f = CreateFrame('Frame', nil, self)
+local f = CreateFrame('Frame', nil, UIParent)
 f:RegisterEvent('PLAYER_ENTERING_WORLD')
 f:RegisterEvent('PLAYER_REGEN_ENABLED')
 f:SetScript('OnEvent', moveZAF)

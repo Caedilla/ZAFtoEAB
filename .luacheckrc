@@ -44,6 +44,8 @@ globals = {
 	"CastingBarFrame",
 	"PetCastingBarFrame",
 	"UIPARENT_MANAGED_FRAME_POSITIONS",
+	"ZoneAbilityFrame",
+	"ExtraActionButton1",
 
 	-- Libraries
 	"LibStub",
