@@ -1,0 +1,10 @@
+package-as: ZAFtoEAB
+
+manual-changelog:
+ filename: CHANGELOG.md
+ markup-type: markdown
+
+ignore:
+ - Release
+ - pkgmeta
+ - README.md
