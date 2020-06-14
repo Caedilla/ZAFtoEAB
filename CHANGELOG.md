@@ -1,3 +1,3 @@
-# ZAFtoEAB r6-release
-### New
-* First Release
+# Move Sanity Orb r7-beta
+### Updates
+* Hopefully fixed inter-tangling with another addon of mine. Addon folder updated to MoveSanityOrb
