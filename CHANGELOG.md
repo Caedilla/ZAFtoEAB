@@ -1,3 +1,3 @@
-# Move Sanity Orb r7-beta
+# Move Sanity Orb r8-Release
 ### Updates
-* Hopefully fixed inter-tangling with another addon of mine. Addon folder updated to MoveSanityOrb
+* Update .toc for Shadowlands Pre-patch.
