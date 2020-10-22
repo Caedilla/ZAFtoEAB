@@ -1,1 +1,1 @@
-curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh| bash -s -- -p 358737 -g 8.3.0 -o -m pkgmeta
+curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh| bash -s -- -p 358737 -g 9.0.1 -m pkgmeta
