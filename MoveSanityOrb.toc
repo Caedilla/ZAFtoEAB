@@ -1,7 +1,7 @@
-## Interface: 80300
+## Interface: 90001
 ## Title: Move the Sanity Orb Button
 ## Notes: Moves the Sanity Orb Button (ZoneAbilityFrame) button to the same position as the ExtraActionButton
 ## Author: Raeli
-## Version: 1
+## Version: 1.01
 
 Core.lua

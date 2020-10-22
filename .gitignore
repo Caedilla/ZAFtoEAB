@@ -1,4 +1,4 @@
 
+.vscode
 local.sh
 release.sh
-!Release/release.sh
